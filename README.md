@@ -2,8 +2,12 @@
 <h3 align="center">Assistant Professor | PhD Candidate | AI & Deep Learning Researcher</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code\&size=20\&pause=1000\&color=1E88A8\&center=true\&vCenter=true\&width=600\&lines=Researching+Video+Action+Recognition;Spatio-Temporal+Deep+Learning;Computer+Vision+%7C+CNNs+%7C+LSTMs+%7C+Transformers;Teaching+%7C+Mentoring+%7C+Fairness+in+Education" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=1E88A8&center=true&vCenter=true&width=700&lines=Teaching+%7C+Mentoring+%7C+Fairness+in+Education;Researching+Video+Action+Recognition"
+    alt="Typing SVG"
+  />
 </p>
+
 
 \---
 
