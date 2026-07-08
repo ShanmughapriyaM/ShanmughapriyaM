@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shanmughapriya M</h1>
-<h3 align="center">Assistant Professor | PhD Candidate | AI \& Deep Learning Researcher</h3>
+<h3 align="center">Assistant Professor | PhD Candidate | AI & Deep Learning Researcher</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code\&size=20\&pause=1000\&color=1E88A8\&center=true\&vCenter=true\&width=600\&lines=Researching+Video+Action+Recognition;Spatio-Temporal+Deep+Learning;Computer+Vision+%7C+CNNs+%7C+LSTMs+%7C+Transformers;Teaching+%7C+Mentoring+%7C+Fairness+in+Education" alt="Typing SVG" />
@@ -23,7 +23,7 @@
 ### 🛠️ Research \& Technical Interests
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Deep%20Learning-1E88A8?style=for-the-badge" />
+ <a href="https://www.geeksforgeeks.org/deep-learning/introduction-deep-learning/"> <img src="https://img.shields.io/badge/-Deep%20Learning-1E88A8?style=for-the-badge" /></a>
   <img src="https://img.shields.io/badge/-Computer%20Vision-2C3E50?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Video%20Action%20Recognition-1E88A8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-CNNs%20%7C%20LSTMs%20%7C%20Transformers-2C3E50?style=for-the-badge" />
