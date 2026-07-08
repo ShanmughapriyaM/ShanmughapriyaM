@@ -37,6 +37,10 @@
 
 ### 📄 Featured Research
 
+<a href="https://scholar.google.com/citations?user=YwzcGysAAAAJ&hl=en" target="\_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge\&logo=google-scholar\&logoColor=white" />
+ </a>
+
 <a href="https://link.springer.com/chapter/10.1007/978-981-96-2694-6_12"> A Comprehensive Study of Feature Extraction, Learning Methods and Datasets for HAR and Comparative Study of SVM Versus CNN Approach in Classifying Action from COIN Dataset </a>
 
 <a href="https://link.springer.com/article/10.1007/s40998-026-01029-y">Enhanced Action Recognition in Videos Using Deep Hybrid Architecture with Modified SegNet and Improved Feature Set </a>
@@ -52,9 +56,7 @@
   <a href="https://www.linkedin.com/in/shanmughapriya-m-23294822/" target="\_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white" />
   </a>
-  <a href="https://scholar.google.com/citations?user=YwzcGysAAAAJ&hl=en" target="\_blank">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge\&logo=google-scholar\&logoColor=white" />
- </a>
+  
 </p>
 
 \---
